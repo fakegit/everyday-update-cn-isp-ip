@@ -1,3 +1,8 @@
+# 因APNIC数据的滞后性，本项目已经停止更新了，刚刚看了一下，居然是9年前发布的，目前已经使用[IPNetDB](https://ipnetdb.com/)作为数据源提供相对精准的IP统计。
+
+
+
+
 # 每日更新的电信IP段，联通IP段，铁通IP段和移动IP段
 ## 根据APNIC的最新IP地址列表及whois信息，每日0点（北京时间）生成的各主要运营商IP地址段，脚本自动生成，难免有错漏，有问题可以联系我。
 中国电信 IP地址段：(http://ispip.clang.cn/chinatelecom.html)
